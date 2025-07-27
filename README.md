@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 2.2em;">Ana Carolina</h1>
+<h1 align="center">Ana Carolina</h1>
 
-<p align="center" style="font-size: 0.9em;">
+<p align="center">
   Desenvolvedora em formação | Foco em Back-End com Java | Experiência com Front-End e Design de Interfaces
 </p>
 
@@ -8,42 +8,32 @@
 
 ## 👩‍💻 Sobre mim
 
-<p style="font-size: 0.9em;">
 Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em back-end, com ênfase em Java e estruturação lógica. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
-</p>
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
 ### Front-End
-<p style="font-size: 0.9em;">
-- HTML5<br>
-- CSS3<br>
-- JavaScript
-</p>
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ### Back-End (em aprendizado)
-<p style="font-size: 0.9em;">
-- Java
-</p>
+- Java  
 
 ### Design
-<p style="font-size: 0.9em;">
-- Figma (prototipagem, interfaces e UI)
-</p>
+- Figma (prototipagem, interfaces e UI)  
 
 ### Ferramentas
-<p style="font-size: 0.9em;">
-- Git & GitHub<br>
-- Visual Studio Code
-</p>
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center" style="font-size: 0.8em;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" />
@@ -55,26 +45,30 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 📫 Contato
 
-<p style="font-size: 0.9em;">
-- Email: seuemail@email.com<br>
-- LinkedIn: <a href="https://linkedin.com/in/seuusuario" target="_blank">linkedin.com/in/seuusuario</a><br>
-- Instagram: <a href="https://instagram.com/seuuser" target="_blank">instagram.com/seuuser</a>
+- Email: seuemail@email.com  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)  
+
+---
+
+## 🎵 Música que me inspira
+
+<p align="center">
+  <a href="https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6" target="_blank">
+    <img src="https://spotify-badge.vercel.app/api/track/7MEpmTSCARpgFdj2Q9Q2d6?theme=light" alt="Last Time - Labrinth" />
+  </a>
+</p>
+
+<p align="center" style="font-style: italic;">
+  Last Time - Labrinth
 </p>
 
 ---
 
-## 💡 Frase que me inspira
-
-<blockquote style="font-size: 0.9em; font-style: italic; color: #555;">
-  “Grandes resultados requerem grandes ambições.” – Heráclito
-</blockquote>
-
----
-
-<p align="center" style="font-size: 0.85em;">
+<p align="center">
   Obrigada por visitar meu perfil.
 </p>
 
-<p align="center" style="font-size: 0.85em;">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO" alt="visitantes do perfil"/>
 </p>
