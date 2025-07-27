@@ -1,16 +1,20 @@
-<h1 align="center">Ana Carolina</h1>
+<h1 align="center">Ana Carolina 🍒</h1>
 
 <p align="center">
-  Desenvolvedora em formação | Foco em Back-End com Java | Experiência com Front-End e Design de Interfaces
+  Desenvolvedora em formação | <span style="color: red; font-weight: 600;">Foco em Back-End com Java</span> | Experiência com Front-End e Design de Interfaces
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/linha.png" alt="linha divisória" width="600" />
+</p>
 
 ## 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em back-end, com ênfase em Java e estruturação lógica. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
+Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em <span style="color: red; font-weight: 600;">back-end, com ênfase em Java e estruturação lógica</span>. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/linha.png" alt="linha divisória" width="600" />
+</p>
 
 ## 🛠️ Habilidades Técnicas
 
@@ -19,8 +23,8 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 - CSS3
 - JavaScript
 
-### Back-End (em aprendizado)
-- Java
+### Back-End (<span style="color: red; font-weight: 600;">em aprendizado</span>)
+- <span style="color: red;">Java 🍒</span>
 
 ### Design
 - Figma (prototipagem, interfaces e UI)
@@ -29,31 +33,37 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 - Git & GitHub
 - Visual Studio Code
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/linha.png" alt="linha divisória" width="600" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" alt="Top languages" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=default" alt="GitHub streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/linha.png" alt="linha divisória" width="600" />
+</p>
 
 ## 📫 Contato
 
-- Email: seuemail@email.com  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Email: <span style="color: red; font-weight: 600;">seuemail@email.com</span>  
+- LinkedIn: [linkedin.com/in/seuusuario 🍒](https://linkedin.com/in/seuusuario)  
 - Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/linha.png" alt="linha divisória" width="600" />
+</p>
 
 ## 💡 Frase que me inspira
 
-> “Grandes resultados requerem grandes ambições.” – Heráclito
+> <span style="color: red;">“Grandes resultados requerem grandes ambições.”</span> – Heráclito
 
 ---
 
