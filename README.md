@@ -53,7 +53,6 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 🎵 Música que me inspira
 
-  <br><br>
   
   > “Making every moment count — even the last time.” 🎵  
   > — trecho inspirado na música [Last Time](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6) do artista **Omnitenebris**
