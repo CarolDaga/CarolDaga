@@ -45,18 +45,19 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 📫 Contato
 
-- Email: seuemail@email.com  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)  
+- Email: caroldaga2@gmail.com  
+- LinkedIn: *em breve*  
+- Instagram: [@anacarolinadaga](https://www.instagram.com/anacarolinadaga)
 
 ---
 
 ## 🎵 Música que me inspira
 
-  
-  > “Making every moment count — even the last time.” 🎵  
-  > — trecho inspirado na música [Last Time](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6) do artista **Omnitenebris**
-</div>
+<p align="center">
+  “Making every moment count — even the last time.” 🎵  
+  <br>
+  — trecho inspirado na música <a href="https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6">Last Time</a> do artista <strong>Omnitenebris</strong>
+</p>
 
 ---
 
