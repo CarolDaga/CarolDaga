@@ -1,14 +1,14 @@
 <h1 align="center">Ana Carolina 🍒</h1>
 
 <p align="center">
-  Desenvolvedora em formação | <span style="color: red; font-weight: bold;">Foco em Back-End com Java</span> | Experiência com Front-End e Design de Interfaces
+  Desenvolvedora em formação | <span style="color: red; font-weight: 600;">Foco em Back-End com Java</span> | Experiência com Front-End e Design de Interfaces
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em <span style="color: red; font-weight: bold;">back-end, com ênfase em Java e estruturação lógica</span>. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
+Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em <span style="color: red; font-weight: 600;">back-end, com ênfase em Java e estruturação lógica</span>. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
 
 ---
 
@@ -19,8 +19,8 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 - CSS3
 - JavaScript
 
-### Back-End (<span style="color: red; font-weight: bold;">em aprendizado</span>)
-- <span style="color: red;">Java</span>
+### Back-End (<span style="color: red; font-weight: 600;">em aprendizado</span>)
+- <span style="color: red;">Java 🍒</span>
 
 ### Design
 - Figma (prototipagem, interfaces e UI)
@@ -45,8 +45,8 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 📫 Contato
 
-- Email: <span style="color: red; font-weight: bold;">seuemail@email.com</span>  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) 🍒  
+- Email: <span style="color: red; font-weight: 600;">seuemail@email.com</span>  
+- LinkedIn: [linkedin.com/in/seuusuario 🍒](https://linkedin.com/in/seuusuario)  
 - Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)
 
 ---
