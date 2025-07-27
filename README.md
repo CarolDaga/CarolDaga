@@ -34,11 +34,11 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" alt="Top languages" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=default" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -53,9 +53,14 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 🎵 Música que me inspira
 
-
-![Preview](https://tthn.pythonanywhere.com?theme=dark)
-
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6)
+  
+  <br><br>
+  
+  > “Making every moment count — even the last time.” 🎵  
+  > — trecho inspirado na música [Last Time](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6) do artista **Omnitenebris**
+</div>
 
 ---
 
@@ -64,5 +69,5 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO" alt="visitantes do perfil"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO" alt="Visitantes do perfil" />
 </p>
