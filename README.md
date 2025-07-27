@@ -1,39 +1,59 @@
-<h1 align="center">Oi, eu sou a Ana Carolina 👋</h1>
+<h1 align="center">✨ Oi, eu sou a Ana Carolina ✨</h1>
 
 <p align="center">
-  💻 Desenvolvedora apaixonada por tecnologia<br>
-  ☕ Amante de café e desafios<br>
-  🚀 Em constante aprendizado
+  💻 Desenvolvedora em formação • ☕ Amante de café e códigos <br>
+  🌱 Focada em Java • 🌸 Aprendendo um passo de cada vez
 </p>
 
 ---
 
-### 🔧 Tecnologias que estou aprendendo:
-- Java ☕
-- Git & GitHub 🔧
-- Lógica de Programação 🧠
-- (em breve: Spring Boot, MySQL...)
+## 🌷 Sobre mim
+
+- 🎓 Estudando programação com foco em back-end
+- 🧠 Aprendendo Java, lógica, Git e GitHub
+- 🎯 Em busca de crescer no mundo da tecnologia
+- 💖 Acredito que pequenos passos também são progresso
 
 ---
 
-### 📫 Como me encontrar:
-- Email: seuemail@example.com
-- LinkedIn: [SeuPerfilLinkedIn](https://linkedin.com/in/seuusuario)
-- Instagram: [@seuuser](https://instagram.com/seuuser)
+## 🛠️ Tecnologias que estou aprendendo
+
+<p align="left">
+  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
 ---
 
-### 💡 Um pouco sobre mim:
-Atualmente focada em voltar ao mundo da programação, com interesse especial em back-end com Java. Gosto de transformar ideias em código e criar soluções que fazem a diferença. Cada erro é uma chance de aprender algo novo 💪
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=rose_pine&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=rose_pine" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=rose_pine&border_radius=10" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" />
-</div>
+## 📬 Como falar comigo
+
+- 📧 **Email:** seuemail@email.com  
+- 📸 **Instagram:** [@seuuser](https://instagram.com/seuuser)  
+- 💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seuusuario)
 
 ---
 
-✨ Obrigada por visitar meu perfil!
+## 💬 Frase que me inspira
+
+> 🌟 *"Mesmo que ninguém acredite, continue. A caminhada é sua."*
+
+---
+
+<p align="center">
+  Obrigada por visitar meu perfil! 💕<br>
+  Volte sempre que quiser 🌈
+</p>
