@@ -1,59 +1,62 @@
-<h1 align="center">✨ Oi, eu sou a Ana Carolina ✨</h1>
+<h1 align="center">Ana Carolina</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação • ☕ Amante de café e códigos <br>
-  🌱 Focada em Java • 🌸 Aprendendo um passo de cada vez
+  Desenvolvedora em formação | Foco em Back-End com Java | Experiência com Front-End e Design de Interfaces
 </p>
 
 ---
 
-## 🌷 Sobre mim
+## 👩‍💻 Sobre mim
 
-- 🎓 Estudando programação com foco em back-end
-- 🧠 Aprendendo Java, lógica, Git e GitHub
-- 🎯 Em busca de crescer no mundo da tecnologia
-- 💖 Acredito que pequenos passos também são progresso
+Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em back-end, com ênfase em Java e estruturação lógica. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Habilidades Técnicas
 
-<p align="left">
-  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+
+### Back-End (em aprendizado)
+- Java
+
+### Design
+- Figma (prototipagem, interfaces e UI)
+
+### Ferramentas
+- Git & GitHub
+- Visual Studio Code
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=rose_pine&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&count_private=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=rose_pine&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=default" />
 </p>
 
 ---
 
-## 📬 Como falar comigo
+## 📫 Contato
 
-- 📧 **Email:** seuemail@email.com  
-- 📸 **Instagram:** [@seuuser](https://instagram.com/seuuser)  
-- 💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seuusuario)
+- Email: seuemail@email.com  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)
 
 ---
 
-## 💬 Frase que me inspira
+## 💡 Frase que me inspira
 
-> 🌟 *"Mesmo que ninguém acredite, continue. A caminhada é sua."*
+> “Grandes resultados requerem grandes ambições.” – Heráclito
 
 ---
 
 <p align="center">
-  Obrigada por visitar meu perfil! 💕<br>
-  Volte sempre que quiser 🌈
+  Obrigada por visitar meu perfil.
 </p>
