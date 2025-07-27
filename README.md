@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em <span style="color: red; font-weight: bold;">back-end, com ênfase em Java e estruturação lógica 🍒</span>. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
+Sou uma desenvolvedora em transição para a área de tecnologia, com base em front-end e design no Figma. Atualmente estou focando em <span style="color: red; font-weight: bold;">back-end, com ênfase em Java e estruturação lógica</span>. Busco unir criatividade com pensamento analítico para construir soluções práticas e bem desenvolvidas.
 
 ---
 
@@ -20,7 +20,7 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 - JavaScript
 
 ### Back-End (<span style="color: red; font-weight: bold;">em aprendizado</span>)
-- <span style="color: red;">Java 🍒</span>
+- <span style="color: red;">Java</span>
 
 ### Design
 - Figma (prototipagem, interfaces e UI)
@@ -45,15 +45,15 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 📫 Contato
 
-- Email: <span style="color: red; font-weight: bold;">seuemail@email.com 🍒</span>  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Email: <span style="color: red; font-weight: bold;">seuemail@email.com</span>  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) 🍒  
 - Instagram: [instagram.com/seuuser](https://instagram.com/seuuser)
 
 ---
 
 ## 💡 Frase que me inspira
 
-> <span style="color: red;">“Grandes resultados requerem grandes ambições.”</span> – Heráclito 🍒
+> <span style="color: red;">“Grandes resultados requerem grandes ambições.”</span> – Heráclito
 
 ---
 
