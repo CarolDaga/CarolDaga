@@ -53,8 +53,9 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 🎵 Música que me inspira
 
-![Preview](https://tthn.pythonanywhere.com?eq_?theme=dark)
-
+<p align="center">
+![Preview](https://tthn.pythonanywhere.com?theme=dark)
+</p>
 
 ---
 
