@@ -53,9 +53,7 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 
 ## 🎵 Música que me inspira
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-pt/track/7MEpmTSCARpgFdj2Q9Q2d6?si=3a7c3b138f1343f0)
-</div>
+![Preview](https://tthn.pythonanywhere.com?eq_color=0995e0)
 
 
 ---
