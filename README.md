@@ -60,3 +60,7 @@ Sou uma desenvolvedora em transição para a área de tecnologia, com base em fr
 <p align="center">
   Obrigada por visitar meu perfil.
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO" alt="visitantes do perfil"/>
+</p>
