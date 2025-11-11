@@ -65,7 +65,7 @@ Adoro desafios que me permitem **aprender e crescer**, transformando ideias em c
 
 - ✉️ Email: caroldaga2@gmail.com  
 - 🔗 LinkedIn: *em breve*  
-
+<hr style="height:2px;border-width:0;color:rgb(255,182,193);background-color:rgb(255,182,193)">
 <p align="center">
   🍒 Obrigada por visitar meu perfil! 🍒
 </p>
