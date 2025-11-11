@@ -19,20 +19,20 @@ Adoro desafios que me permitem **aprender e crescer**, transformando ideias em c
 ## 🛠️ Habilidades Técnicas
 
 ### 🌸 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-%23F48FB1?style=for-the-badge&logo=html5&logoColor=white) ✨
-![CSS3](https://img.shields.io/badge/CSS3-%23F48FB1?style=for-the-badge&logo=css3&logoColor=white) 🖌️
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F48FB1?style=for-the-badge&logo=javascript&logoColor=white) 🌸
+![HTML5](https://img.shields.io/badge/HTML5-%23F48FB1?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%23F48FB1?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F48FB1?style=for-the-badge&logo=javascript&logoColor=white) 
 
 ### 💻 Back-End
-![Java](https://img.shields.io/badge/Java-%23F48FB1?style=for-the-badge&logo=java&logoColor=white) ⚙️🔥
+![Java](https://img.shields.io/badge/Java-%23F48FB1?style=for-the-badge&logo=java&logoColor=white) 
 
 ### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-%23F48FB1?style=for-the-badge&logo=figma&logoColor=white) 🌷🖍️
+![Figma](https://img.shields.io/badge/Figma-%23F48FB1?style=for-the-badge&logo=figma&logoColor=white) 
 
 ### ⚡ Ferramentas
-![Git](https://img.shields.io/badge/Git-%23F48FB1?style=for-the-badge&logo=git&logoColor=white) 🔧
-![GitHub](https://img.shields.io/badge/GitHub-%23F48FB1?style=for-the-badge&logo=github&logoColor=white) 📦
-![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visual-studio-code&logoColor=white) ⚡
+![Git](https://img.shields.io/badge/Git-%23F48FB1?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23F48FB1?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 <!-- Linha rosa decorativa -->
 <hr style="height:2px;border-width:0;color:rgb(255,182,193);background-color:rgb(255,182,193)">
