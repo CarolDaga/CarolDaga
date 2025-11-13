@@ -22,9 +22,10 @@ Adoro desafios que me permitem **aprender e crescer**, transformando ideias em c
 ![HTML5](https://img.shields.io/badge/HTML5-%23F48FB1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%23F48FB1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F48FB1?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-%23F48FB1?style=for-the-badge&logo=react&logoColor=white)
 
 ### 💻 Back-End
-![Java](https://img.shields.io/badge/Java-%23F48FB1?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F48FB1?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-%23F48FB1?style=for-the-badge&logo=figma&logoColor=white)
@@ -32,7 +33,9 @@ Adoro desafios que me permitem **aprender e crescer**, transformando ideias em c
 ### ⚡ Ferramentas
 ![Git](https://img.shields.io/badge/Git-%23F48FB1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23F48FB1?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23F48FB1?style=for-the-badge&logo=vercel&logoColor=white)
+![Frameworks](https://img.shields.io/badge/Frameworks-%23F48FB1?style=for-the-badge&logo=framer&logoColor=white)
 
 <!-- Linha rosa decorativa -->
 <hr style="height:2px;border-width:0;color:#F48FB1;background-color:#F48FB1">
