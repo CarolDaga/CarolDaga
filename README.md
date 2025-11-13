@@ -33,9 +33,8 @@ Adoro desafios que me permitem **aprender e crescer**, transformando ideias em c
 ### ⚡ Ferramentas
 ![Git](https://img.shields.io/badge/Git-%23F48FB1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23F48FB1?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23F48FB1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23F48FB1?style=for-the-badge&logo=vercel&logoColor=white)
-![Frameworks](https://img.shields.io/badge/Frameworks-%23F48FB1?style=for-the-badge&logo=framer&logoColor=white)
 
 <!-- Linha rosa decorativa -->
 <hr style="height:2px;border-width:0;color:#F48FB1;background-color:#F48FB1">
